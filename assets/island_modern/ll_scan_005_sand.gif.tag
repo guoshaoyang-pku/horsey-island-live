@@ -1,1 +1,0 @@
-{"fp": "ea68b7bb839779c9", "mode": "full2", "race_v": 2, "race": {"finished": true, "fell": true, "race_time": 38.68, "distance": 40.02, "top_speed": 7.81, "duration": 38.6, "fell_time": 31.76}}
