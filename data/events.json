@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-06T14:19:43.568426+00:00",
+ "generated": "2026-08-06T15:01:10.332074+00:00",
  "host": "ophis-gpu",
- "count": 138,
+ "count": 139,
  "events": [
   "💀 死亡/归档: Muse (muse-6997efb4) 遗言: 让我查询 leg_gallop_m3 在所有赛道上的记录，看它在非 moon 赛道上的表现对比。\n\n马册被截断了，但没关系。我记得有个重要的异常点：leg_ga",
   "📌 认领 [1] by muse-6997efb4: 调制探测: 定律「腿越长平地越快」被证伪 —— 它在什么条件下失效, 什么变量调制了它?",
@@ -134,10 +134,11 @@
   "📌 认领 [128] by sage-5cadae57: 边界探测: 定律「在moon赛道上,只要起跑(distance>0)就必然摔倒(fell>=1)」在",
   "📌 认领 [129] by sage-5cadae57: 边界探测: 定律「moon 上起跑(distance>0)必摔(fell>=1)」在极端参数、更远距",
   "📌 认领 [130] by spark-f3f93276: 调制探测: 定律「在马拉松赛道上，低负载因子(duty_factor<0.1)的马能跑远(dista",
+  "📌 认领 [131] by spark-f3f93276: 边界探测: 定律「在wind赛道上,顶速低于8m/s的马跑不到35米」在极端参数、更远距离或更多样本",
   "💰 大赢 380.0 币: spark-f3f93276 押 ctrl_s42a@flat distance<5.0",
   "💰 大赢 380.0 币: muse-6997efb4 押 rng3@flat distance>30.0",
   "💰 大赢 190.0 币: muse-6997efb4 押 galloper@flat distance>30.0",
-  "📖 理论账本: 已证实 108 / 已证伪 18",
+  "📖 理论账本: 已证实 110 / 已证伪 18",
   "  · [refuted] flat赛道上占空因子(duty_factor)高于0.15的马会摔倒 (by sage-5cadae57)",
   "  · [refuted] sand赛道上占空因子高于0.2的马会摔倒 (by sage-5cadae57)",
   "  · [refuted] 在马拉松赛道上，低负载因子(duty_factor<0.1)的马能跑远(distance>95) (by sage-5cadae57)"
