@@ -1,0 +1,104 @@
+{
+  "method": "retrospective keyword-rule clusters",
+  "days": [
+    "2026-08-03",
+    "2026-08-04",
+    "2026-08-05",
+    "2026-08-06",
+    "2026-08-07",
+    "2026-08-08",
+    "2026-08-09",
+    "2026-08-10",
+    "2026-08-11",
+    "2026-08-12",
+    "2026-08-13",
+    "2026-08-14",
+    "2026-08-15",
+    "2026-08-16",
+    "2026-08-17"
+  ],
+  "new_topics": [
+    19,
+    2,
+    1,
+    1,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "active_topics": [
+    19,
+    20,
+    18,
+    21,
+    19,
+    22,
+    19,
+    20,
+    18,
+    16,
+    18,
+    17,
+    22,
+    20,
+    13
+  ],
+  "new_topic_names": [
+    [
+      "breeding",
+      "crispr",
+      "determinism",
+      "distance",
+      "duty_factor",
+      "energy",
+      "fell_stability",
+      "flat_track",
+      "gait",
+      "genes",
+      "hill_track",
+      "law_book",
+      "long_legs",
+      "moon_track",
+      "mud_track",
+      "mutation",
+      "race_design",
+      "sand_track",
+      "top_speed"
+    ],
+    [
+      "biped",
+      "wheel"
+    ],
+    [
+      "contact_physics"
+    ],
+    [
+      "death_motivation"
+    ],
+    [],
+    [
+      "octopod"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "torque"
+    ],
+    []
+  ],
+  "total_unique_topics": 25,
+  "rule_count": 25
+}
